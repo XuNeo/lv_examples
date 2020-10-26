@@ -36,6 +36,7 @@ extern "C" {
 #include "src/lv_ex_widgets/lv_ex_widgets.h"
 #include "src/lv_demo_widgets/lv_demo_widgets.h"
 #include "src/lv_demo_benchmark/lv_demo_benchmark.h"
+#include "src/lv_demo_meter/lv_demo_meter.h"
 #include "src/lv_demo_stress/lv_demo_stress.h"
 #include "src/lv_demo_keypad_encoder/lv_demo_keypad_encoder.h"
 #include "src/lv_demo_printer/lv_demo_printer.h"
